@@ -1,0 +1,44 @@
+MENU Ninja School
+By maixuanvu2008
+
+ Github: https://github.com/maixuanvu2008
+ Phone: +84926234241                                        Facebook: https://fb.me/khanh10a1                         
+ Version: 104                                                                                                          Current: HOIUC_BIA333-2022 [Dame-ảo]                      
+ Android 11 arm-64bit [Stable]                              Manufacturer / Model: samsung SM-A205F                     CPU: exynos7884B [8 Cores | 449 MHz - 1560 MHz]
+ RAM: 2725 MB | Free: 370 MB [13%]
+ Swap: 1535 MB | Free: 50 MB [3%]
+ Storage Path: /sdcard/
+ Storage: 23G | Used: 21G | Free: 2.0G
+ Battery: Permission Denied
+ Battery status: Permission Denied
+ Root: No
+ Termux PATH: /data/data/com.termux
+
+ IP Wifi: 192.168.1.2
+ IP Online (1): Chưa chạy
+ IP Online (2): Chưa chạy
+ IP SSH: Chưa chạy
+ Web: http://127.0.0.1:8080 [Offline]
+ Recaf: STOPPED [None]
+ MySQL: YES | Apache2: YES
+
+ Date/Time: 10:08:04 - 15/10/2022
+ Uptime: 3 days, 16 hours, 14 minutes
+
+ -1. Information this menu
+ 00. CÂU HỎI THƯỜNG GẶP [HELP]
+  0. Xem thông tin tài khoản [Information account]
+  1. Tạo tài khoản [Create account]
+  2. Lock/Unlock tài khoản
+  3. Mật khẩu [Password Account]
+  4. Buff for account
+  5. Reset [Giữ rương, Tiềm năng,...]
+  6. Backup/Restore your data
+  7. More... [Thêm]
+  8. Cài đặt [Settings]
+  9. Xóa tài khoản [Delete Account]
+ 10. Gỡ cài đặt [Uninstall]
+  K. Thoát [Exit]
+  KKKKK. Thoát Termux [Exit Termux]
+
+Lựa chọn:
