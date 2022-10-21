@@ -1,0 +1,4 @@
+soluong = int(input("So luong: "))
+name = input('Nhap ten: ')
+for i in range(soluong):
+	print(i+1,"anh yeu ",name)
